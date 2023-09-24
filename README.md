@@ -19,4 +19,4 @@ $ . ./recompileall.sh
 $ ./FIFO
 ```
 ## TODO
-- add functionality to change `QUEUE_SZ` with ease
+- add functionality to change `QUEUE_SZ` with ease ([issue#1](https://github.com/SatyoJena/page_replace.h/issues/1))
